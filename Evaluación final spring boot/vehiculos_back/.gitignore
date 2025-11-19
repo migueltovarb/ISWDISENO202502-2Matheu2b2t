@@ -1,0 +1,17 @@
+# Maven target
+target/
+
+# IDE/OS
+.idea/
+.classpath
+.project
+.settings/
+.vscode/
+.DS_Store
+
+# Logs
+*.log
+
+# Environment
+.env
+*.env.local
